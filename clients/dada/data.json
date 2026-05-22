@@ -1,0 +1,20 @@
+{
+  "brand": "DADA",
+  "subBrand": "beauty",
+  "productName": "Natural Henna",
+  "category": "HENNA HAIR COLOR",
+  "colorNumber": "01",
+  "colorNameKo": "흑색",
+  "colorNameEn": "Black",
+  "volume": "100 g",
+  "claims": [
+    "헤나 헤어 코팅 & 트리트먼트",
+    "자연스러운 헤어 컬러 트리트먼트"
+  ],
+  "certifications": [
+    "식약처 수입허가",
+    "ISO 9001 인증"
+  ],
+  "outputPrefix": "dada-henna",
+  "template": "templates/henna-label"
+}

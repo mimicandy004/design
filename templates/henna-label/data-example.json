@@ -1,0 +1,30 @@
+{
+  "brand": "BRAND NAME",
+  "subBrand": "beauty",
+  "productName": "Henna Color Treatment",
+  "category": "HENNA HAIR COLOR",
+  "colorNumber": "01",
+  "colorNameKo": "흑색",
+  "colorNameEn": "Black",
+  "volume": "100 g",
+  "claims": [
+    "헤나 헤어 코팅 & 트리트먼트",
+    "자연스러운 헤어 컬러 트리트먼트"
+  ],
+  "certifications": [
+    "식약처 수입허가",
+    "ISO 9001 인증"
+  ],
+  "colorLineup": [
+    { "number": "01", "nameKo": "흑색", "hex": "#050505" },
+    { "number": "02", "nameKo": "흑갈색", "hex": "#27140B" },
+    { "number": "03", "nameKo": "갈색", "hex": "#5D2E0B" },
+    { "number": "04", "nameKo": "밝은갈색", "hex": "#9A5E23" },
+    { "number": "05", "nameKo": "와인레드", "hex": "#860D12" },
+    { "number": "06", "nameKo": "초코브라운", "hex": "#321006" },
+    { "number": "07", "nameKo": "내추럴오렌지", "hex": "#F13E36" },
+    { "number": "08", "nameKo": "내추럴다크브라운", "hex": "#814D28" },
+    { "number": "09", "nameKo": "암라", "hex": "#F2652E" },
+    { "number": "10", "nameKo": "투명", "hex": "#C9CED8" }
+  ]
+}
