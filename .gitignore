@@ -1,0 +1,37 @@
+# Keep the repository lightweight.
+# Store large source/design files and iterative image outputs outside Git,
+# or keep them locally under ignored folders.
+
+# Heavy editable design sources
+*.ai
+*.psd
+*.psb
+*.indd
+*.sketch
+*.fig
+*.afdesign
+*.xd
+
+# Raster image work files and generated previews
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.tif
+*.tiff
+
+# Large document/export files
+*.pdf
+*.zip
+*.7z
+*.rar
+
+# Allow folder placeholders
+!.gitkeep
+
+# Allow lightweight vector/template files
+!*.svg
+
+# Optional manually curated small previews can be tracked here if needed
+!clients/**/preview/**
+!templates/**/preview/**
